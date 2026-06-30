@@ -23,7 +23,8 @@ const mypromise = new Promise((resolve, reject) => {
 ```
 
 
-# Examples
+# Example
+
 It is used while fetching data from api.
 Eg.
 ```js
